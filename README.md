@@ -9,3 +9,8 @@
 - [Less编码规范](https://github.com/ecomfe/spec/blob/master/less-code-style.md) <span class="std-rec">[1.1]</span>
 - [E-JSON数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md) <span class="std-rec">[1.0]</span>
 - [模块和加载器规范](https://github.com/ecomfe/spec/blob/master/module.md) <span class="std-rec">[1.1]</span>
+
+
+来源 https://github.com/pablohpsilva/vuejs-component-style-guide 
+
+- [vuejs规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md) <span class="std-rec">[1.1]</span>
