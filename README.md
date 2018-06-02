@@ -14,3 +14,5 @@
 来源 https://github.com/pablohpsilva/vuejs-component-style-guide 
 
 - [vuejs规范](https://github.com/pablohpsilva/vuejs-component-style-guide/blob/master/README-CN.md) <span class="std-rec">[1.1]</span>
+
+vuejs官方规范 https://cn.vuejs.org/v2/style-guide/ 
