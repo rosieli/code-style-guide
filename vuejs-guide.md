@@ -1,6 +1,7 @@
 # Vue.js 编码规范
 ### 参考来源：
-https://github.com/pablohpsilva/vuejs-component-style-guide/blob/
+https://github.com/pablohpsilva/vuejs-component-style-guide/blob/;
+
 https://cn.vuejs.org/v2/style-guide/
 ## 目录
 
