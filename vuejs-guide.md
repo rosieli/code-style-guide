@@ -71,8 +71,8 @@ import BaseHeader from 'components/base-header/base-header'  // 公共组件库
 import UserList from '@components/user-list/user-list'    // 子项目组件库
 //组件注册
 components: {
-	BaseHeader,
-	UserList
+  BaseHeader,
+  UserList
 }
 ```
 
