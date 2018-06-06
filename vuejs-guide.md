@@ -10,7 +10,7 @@ https://cn.vuejs.org/v2/style-guide/
 * [组件表达式简单化](#组件表达式简单化)
 * [组件 props 原子化](#组件-props-原子化)
 * [验证组件的 props](#验证组件的-props)
-* [Vue指令](#Vue指令)
+* [Vue指令](#vue指令)
 * [组件结构化](#组件结构化)
 * [组件事件命名](#组件事件命名)
 * [避免 `this.$parent`](#避免-this.$parent)
